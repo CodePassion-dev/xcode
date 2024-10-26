@@ -34,3 +34,21 @@ Personalize Your Workspace: Must-Know Xcode Theme Tips
 ## Templates
 
 Create Once, Reuse Forever: Essential Xcode Template Tips
+
+- [IDETemplateMacros.plist](/plist/IDETemplateMacros.plist):
+  - Define default values for certain placeholders in new projects.
+  - Locate/Create the File under _~/Library/Developer/Xcode/UserData_
+
+## macOS Commands
+
+Control Your Mac Like a Pro with These Terminal Commands
+
+```bash
+# Check macOS version
+% sw_vers
+ProductName:		macOS
+ProductVersion:		15.0.1
+BuildVersion:		24A348
+```
+
+[**View More...**](/md/MACOS%20COMMANDS.mdd)

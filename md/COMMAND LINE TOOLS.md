@@ -26,4 +26,4 @@ defaults write com.apple.iphonesimulator ShowSingleTouches 1
 ## References
 
 - <https://developer.apple.com/library/archive/technotes/tn2339/_index.html>
-- <https://mac.install.guide/commandlinetools/8>
+- <https://mac.install.guide>
