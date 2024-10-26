@@ -37,6 +37,22 @@
 
 ## Code Navigation
 
+| Keys                | Functions         |
+| ------------------- | ----------------- |
+| **⌘ + Right arrow** | End of line       |
+| **⌘ + Left arrow**  | Beginning of line |
+| **⌘ + Up arrow**    | Top of file       |
+| **⌘ + Down arrow**  | Bottom of file    |
+| **⌥ + Right arrow** | Next word         |
+| **⌥ + Left arrow**  | Previous word     |
+| **⌃ + Right arrow** | Next subword      |
+| **⌃ + Left arrow**  | Previous subword  |
+| **⌘ + L**           | Go to Line Number |
+| **⇧ + F**           | Find in file      |
+| **⇧ + ⌘ + F**       | Find in project   |
+| **⇧ + G**           | Find next         |
+| **⇧ + ⌘ + G**       | Find previous     |
+
 ## Navigators
 
 ## Inspectors
@@ -45,8 +61,8 @@
 
 | Keys              | Functions                   |
 | ----------------- | --------------------------- |
-| **⌘ + T**         | New Tab                     |
-| **⇧ + ⌘ + T**     | New Window                  |
+| **⌘ + T**         | Open a New Tab              |
+| **⇧ + ⌘ + T**     | Open a New window           |
 | **⇧ + ⌘ + H**     | Human Interfaces Guidelines |
 | **⇧ + ⌘ + 0**     | Developer Documentation     |
 | **⇧ + ⌘ + 1**     | Welcome to Xcode            |
