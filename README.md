@@ -28,11 +28,12 @@
 | **⌥ + ⌘ + left arrow**  | Fold method/class           |
 | **⌥ + ⌘ + right arrow** | Unfold method/class         |
 | **⌃ + .**               | Move to the next completion |
-| **⌃ + 1**               | Edit all in scope           |
-| **⌃ + 1**               |                             |
-| **⌃ + 1**               |                             |
-| **⌃ + 1**               |                             |
-| **⌃ + 1**               |                             |
+| **⌃ + 1**               | Show Related Items          |
+| **⌃ + 2**               | Show Previous History       |
+| **⌃ + 3**               | Show Next History           |
+| **⌃ + 4**               | Show Top Level Items        |
+| **⌃ + 5**               | Show Group Files            |
+| **⌃ + 6**               | Show Document Items         |
 
 ## Code Navigation
 
@@ -41,3 +42,19 @@
 ## Inspectors
 
 ## Window & Help
+
+| Keys              | Functions                   |
+| ----------------- | --------------------------- |
+| **⌘ + T**         | New Tab                     |
+| **⇧ + ⌘ + T**     | New Window                  |
+| **⇧ + ⌘ + H**     | Human Interfaces Guidelines |
+| **⇧ + ⌘ + 0**     | Developer Documentation     |
+| **⇧ + ⌘ + 1**     | Welcome to Xcode            |
+| **⇧ + ⌘ + 2**     | Devices and Simulators      |
+| **⇧ + ⌘ + 9**     | Downloads                   |
+| **⌥ + ⇧ + ⌘ + O** | Organizer                   |
+
+## References
+
+- <https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/Introduction/Introduction.html>
+- <https://keycombiner.com/collections/xcode/>
