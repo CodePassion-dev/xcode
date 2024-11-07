@@ -51,4 +51,4 @@ ProductVersion:		15.0.1
 BuildVersion:		24A348
 ```
 
-[**View More...**](/md/MACOS%20COMMANDS.mdd)
+[**View More...**](/md/MACOS%20COMMANDS.md)
