@@ -2,6 +2,12 @@
 
 Essential Xcode Tips and Tricks to Boost Your Productivity
 
+## First Set Up
+
+- Enable Thread Sanitizer: Edit Scheme... -> Run -> Diagnostics -> Check Thread Sanitizer.
+
+![Alt Text](images/thread-sanitizer.png)
+
 ## Command Line Tools
 
 Unlock Efficiency: Must-Know Xcode Commands for Developers
@@ -46,9 +52,9 @@ Control Your Mac Like a Pro with These Terminal Commands
 ```bash
 # Check macOS version
 % sw_vers
-ProductName:		macOS
-ProductVersion:		15.0.1
-BuildVersion:		24A348
+ProductName:      macOS
+ProductVersion:   15.0.1
+BuildVersion:     24A348
 ```
 
 [**View More...**](/md/MACOS%20COMMANDS.md)
